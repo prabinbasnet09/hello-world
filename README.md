@@ -1,2 +1,5 @@
 # hello-world
-learning to use it
+
+Hello everyone!
+
+Hope you all will become a successful programmer one day. 
